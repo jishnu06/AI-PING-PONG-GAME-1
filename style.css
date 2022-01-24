@@ -1,0 +1,16 @@
+.heading{
+    width: 100%;
+}
+
+.heading h3{
+    display: inline;
+    float: left;
+}
+
+.heading button{
+    float: right;
+}
+
+#start, #status{
+    font-size: 22px;
+}
